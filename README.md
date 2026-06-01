@@ -1,2 +1,2 @@
 # Web
-web development course
+web development
